@@ -32,5 +32,3 @@
 ## Остальное
 
 * [Просмотр скрытых файлов и папок](https://support.microsoft.com/ru-ru/help/4028316/windows-view-hidden-files-and-folders-in-windows-10)
-
-**[⬆ back to top](#applications)**
