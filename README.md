@@ -1,4 +1,4 @@
-# <img src="https://github.com/dpteam/AwesomeDPT-Windows/master/content/logo.png" width="400">
+# <img src="https://github.com/dpteam/AwesomeDPT-Windows/blob/master/content/logo.png?raw=true" width="400">
 
 💻 Список программного обеспечения, которое DartPower Team советует установить каждому!
 Этот репозиторий содержит ПО только для Windows 10, разрядности x86_64 (64-бита)
