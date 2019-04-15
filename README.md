@@ -1,4 +1,4 @@
-# <img src="https://github.com/dpteam/AwesomeDPT-Windows/blob/master/content/logo.png?raw=true" width="400">
+# <img src="https://raw.githubusercontent.com/dpteam/AwesomeDPT-WindowsSoft/master/content/logo.png?raw=true" width="400">
 
 💻 Список программного обеспечения, которое DartPower Team советует установить каждому!
 
