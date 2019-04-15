@@ -4,8 +4,7 @@
 
 ## Ссылки
 
-- [AwesomeDPT-WindowsSoft](https://dpteam.github.io/AwesomeDPT-WindowsSoft) - Список программного обеспечения, которое DartPower Team советует установить каждому.
-- [AwesomeDPT-WindowsOptima](https://dpteam.github.io/AwesomeDPT-WindowsOptima) - Скрипт, написанный на Powershell, для того чтобы отключить нежелетельные стандарты Windows, такие как: телеметрия (слежка), UWP приложения, лишние службы и настройки. Включает ряд особенностей, которые гарантированно повышают общую производительность операционной системы.
+- [AwesomeDPT-Windows](https://dpteam.github.io/AwesomeDPT-Windows) - Вернуться в основной список.
 
 ### Этот репозиторий содержит ПО только для Windows 10, разрядности x86_64 (64-бита)
 
