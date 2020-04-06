@@ -4,7 +4,7 @@
 
 ## Ссылки
 
-- [AwesomeDPT-Windows](https://dpteam.github.io/AwesomeDPT-Windows) - Вернуться в основной список.
+- [AwesomeDPT](https://dpteam.github.io/AwesomeDPT) - Вернуться в основной список.
 
 ### Этот репозиторий содержит ПО только для Windows 10, разрядности x86_64 (64-бита)
 
